@@ -719,9 +719,8 @@
                                         <collectionView selectable="YES" allowsMultipleSelection="YES" id="LlK-Fk-SGb">
                                             <rect key="frame" x="0.0" y="0.0" width="478" height="158"/>
                                             <autoresizingMask key="autoresizingMask" widthSizable="YES"/>
-                                            <collectionViewFlowLayout key="collectionViewLayout" minimumInteritemSpacing="50" minimumLineSpacing="20" id="kma-fu-qTV">
-                                                <size key="itemSize" width="100" height="50"/>
-                                                <edgeInsets key="sectionInset" left="30" right="30" top="50" bottom="50"/>
+                                            <collectionViewFlowLayout key="collectionViewLayout" minimumInteritemSpacing="10" minimumLineSpacing="10" id="qiJ-kb-b1D">
+                                                <size key="itemSize" width="50" height="50"/>
                                             </collectionViewFlowLayout>
                                             <color key="primaryBackgroundColor" name="controlBackgroundColor" catalog="System" colorSpace="catalog"/>
                                             <connections>
